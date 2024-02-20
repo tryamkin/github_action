@@ -13,6 +13,6 @@ jobs:
         run: git clone https://github.com/tryamkin/github_action.git
       - name: List of Files
         run: | 
-          ls -a
+          lssss -a
           cd github_action
           ls -a
