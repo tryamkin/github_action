@@ -11,4 +11,6 @@ jobs:
           pwd
       - uses: actions/checkout@v4
       - name: List of Files
-        run: ls -a
+        run: | 
+          ls -a
+          cat index.html

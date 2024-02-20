@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="remove sl command">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/secon_workflow.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/first_workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/first_workflow.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="Copy files v3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +153,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708438520174</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Copy files">
+      <created>1708448747520</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708448747520</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Copy files v2">
+      <created>1708448797743</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708448797743</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Copy files v3">
+      <created>1708448856647</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708448856647</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +198,9 @@
     <MESSAGE value="add workflow_dispatch dor manual run" />
     <MESSAGE value="some fun additional" />
     <MESSAGE value="remove sl command" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove sl command" />
+    <MESSAGE value="Copy files" />
+    <MESSAGE value="Copy files v2" />
+    <MESSAGE value="Copy files v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copy files v3" />
   </component>
 </project>
