@@ -1,0 +1,9 @@
+name: first workwlow
+on: [ push ]
+
+jobs:
+  run-fitst-command:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Display some text
+        run: echo "Some text"
