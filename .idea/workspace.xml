@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="Copy files v3" />
+    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="cat index">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/secon_workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/secon_workflow.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708448856647</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="cat index">
+      <created>1708449069788</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708449069788</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +211,7 @@
     <MESSAGE value="Copy files" />
     <MESSAGE value="Copy files v2" />
     <MESSAGE value="Copy files v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copy files v3" />
+    <MESSAGE value="cat index" />
+    <option name="LAST_COMMIT_MESSAGE" value="cat index" />
   </component>
 </project>

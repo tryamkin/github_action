@@ -9,8 +9,10 @@ jobs:
         run: |
           ls -a
           pwd
-      - uses: actions/checkout@v4
+  #    - uses: actions/checkout@v4
+      - name: Clone Git
+        run: git clone https://github.com/tryamkin/github_action.git
       - name: List of Files
         run: | 
           ls -a
-          cat index.html
+   #       cat index.html
