@@ -1,0 +1,14 @@
+name: Third workflow
+on:
+  workflow_run:
+    workflows: [secon_workflow]
+    types:
+      - completed
+
+
+jobs:
+  Hello-command:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List files and copy repo
+        run: echo "Hello I`m Third workflow"
