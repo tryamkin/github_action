@@ -1,0 +1,14 @@
+name: second workflow
+on: push
+
+jobs:
+  run-fitst-command:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List files and copy repo
+        run: |
+          ls -a
+          pwd
+      - uses: action/checkout@v4
+      - name: List of Files
+        run: ls-a
