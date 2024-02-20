@@ -14,6 +14,5 @@ jobs:
       - name: List of Files
         run: | 
           ls -a
-   #       cat index.html
           cd github_action
           ls -a
