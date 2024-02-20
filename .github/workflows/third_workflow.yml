@@ -1,7 +1,7 @@
 name: Third workflow
 on:
   workflow_run:
-    workflows: [secon_workflow]
+    workflows: [second workflow]
     types:
       - completed
 
