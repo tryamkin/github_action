@@ -5,8 +5,14 @@ on:
     types:
       - completed
 jobs:
-  Hello-command:
+  Success-command:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: List files and copy repo
-        run: echo "Hello Third workflow"
+        run: echo "Success!!!"
+  failure-command:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    steps:
+      - run: echo "Failed!!!"

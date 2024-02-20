@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="run after second workflow" />
+    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="Third workflow run after second workflow">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/third_workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/third_workflow.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708451184712</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="run after second workflow">
+      <created>1708451267494</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708451267494</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Third workflow run after second workflow">
+      <created>1708451372956</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708451372956</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +257,7 @@
     <MESSAGE value="git clone" />
     <MESSAGE value="git clone and enter" />
     <MESSAGE value="run after second workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="run after second workflow" />
+    <MESSAGE value="Third workflow run after second workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third workflow run after second workflow" />
   </component>
 </project>
