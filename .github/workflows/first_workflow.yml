@@ -1,5 +1,5 @@
 name: first workflow
-on: workflow_dispatch
+on: push
 # on: workflow_dispatch ручной запуск
 
 
@@ -14,4 +14,9 @@ jobs:
           node -v
           npm -v
           whoami
+          sl
+          cowsay 
+          toilet 
+          fortune 
+          neofetch 
           time
