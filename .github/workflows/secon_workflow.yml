@@ -9,6 +9,6 @@ jobs:
         run: |
           ls -a
           pwd
-      - uses: action/checkout@v4
+      - uses: actions/checkout@v4
       - name: List of Files
         run: ls-a
