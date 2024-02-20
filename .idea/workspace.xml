@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="add into first workflow">
+    <list default="true" id="89526bc0-f96e-477a-bbe5-727680c76c1b" name="Changes" comment="change index and add key &quot;actionS skip&quot; [actions skip]">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/first_workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/first_workflow.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,9 @@
         <option name="url" value="https://github.com/tryamkin/github_action.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.github/workflows/first_workflow.yml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -118,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708436518205</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change index and add key &quot;action skip&quot; [action skip]">
+      <created>1708437431738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708437431738</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change index and add key &quot;actionS skip&quot; [actions skip]">
+      <created>1708437480351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708437480351</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +154,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="add first workflow" />
     <MESSAGE value="add into first workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="add into first workflow" />
+    <MESSAGE value="change index and add key &quot;action skip&quot; [action skip]" />
+    <MESSAGE value="change index and add key &quot;actionS skip&quot; [actions skip]" />
+    <option name="LAST_COMMIT_MESSAGE" value="change index and add key &quot;actionS skip&quot; [actions skip]" />
   </component>
 </project>
